@@ -15,4 +15,7 @@ www.corporateennui.com
 A creative project I once intended on completing.
 
 www.onelethalkiss.com
-A portfolio site for my cousin. 
+A portfolio site for my cousin.
+
+www.stringliteral.com
+A general blog site to feature writing samples and other musings. 
