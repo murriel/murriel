@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/murriel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.murrielgrace.com
+  * I am murriel (https://keybase.io/murriel) on keybase.
+  * I have a public key with fingerprint E416 4518 E6DA 3F75 7B3E  FC90 1CF5 EA34 4D1D 180E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e4164518e6da3f757b3efc901cf5ea344d1d180e",
+            "host": "keybase.io",
+            "key_id": "1cf5ea344d1d180e",
+            "kid": "0101e11cf54ba21390ca11828b5459d8752940861fbee3b31d99bd33d1ef5f7f72790a",
+            "uid": "ec92fdbe4e0c8f130cf422b0b483a919",
+            "username": "murriel"
+        },
+        "service": {
+            "hostname": "www.murrielgrace.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437114219,
+    "expire_in": 157680000,
+    "prev": "0dfdfdbca6c01574918ad853ba2be07e89572b69ec15984baa99a5666e8faf13",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtkntQVFUcxxdQpigka2DMQOwCqbThPXvfy/TAx1KjgA7uuKMD632cu3t53L3t
+XXaRRQp6yCMJGBxFU4bRQYZA0skSBoUCHQVLwmrSskIyQQlIQBrGYbqXof86548z
+5/f7/L7n/L7zqwoNMoQERM7cx1OiViwL6B/lDNamer8f4VzCXsTsR7LhwiFKsgO6
+FbckexAzAnFA4gSgISmwmEgRFIdBkWdQwIsEZDEcF4AAaBQiRsTpUvUKTYZjVZgg
+ubSYdrFLghb9Hz57IYECFECgp3GONQGMQXkWANpEcwROMAJNESYGR2kSiByEGIcB
+gWE4AcMEAEVCpETKRDEoq8nlLchBnjGJAgdxiPK0CDCUF3GTiUM5nMZYBjA6qEK3
+zOZCjc7Nc7slmIPsMyJa0CvxUHdAb2QR8Pl8CYuQw83yMIF35WoSitvlcfGuHI1w
+ejyKWRfw7FUWKiBnX9Syc5IsaG5qBV7oViWXjJiBRvIeSRcHOEYBgJsAY0RgviK5
+oV3SCYIiaVRb+jPQq1skiNrmeJbkUS2LM4BmBZrANL84iFKQZgjKxJEM5AHB0JqN
+LMOwBEmSkBZZzQNE7+5t2YWYce2brEOTVCWH/ATryXNDZF9IWWDkEkNAiCF4aaA+
+EYaQJ5/5b0wiNobNkyeG7wbLyZd/6qu9WRARt3ZDYcyR7IJfihRlumzyesZnl9LL
+v1zPjS9PnVVq1mZue/rxdv/rocztS7k7333U8lxPTIE8Y3sFt1p8zbGWHeONS5et
+7/rWuDUmmQ8N3DS5u/fZRvmvR2pWYpvpzq9XN/c/cEydnDt85fyNezn0dNt2Y337
+Emfmg665x4ZqWJ0+9Oqaul354bOl3eIWS3HKVM2anLlxPtDece+ajWs6VH0x/K3v
+itvrRqI3NczmTzgqY47mX2gZqzg/6gpuiT3Qk3kucLBcit+Z9GJhvN84afF4jpTs
+3n/LOj/amjd2/PevR+qUDxrVxEPF+Jk7fbHfNCijcWVppQdLl1+psNnOHSNf6/Jl
+4y9kDVM3GOfK5DR60K60zo+9U3/3WktFg6XZ4uzNLez92bfn086mk7Pbxr5446WM
+2r+9t3mZ2TgTF9HxR8M43HVCTitW+4dSLPGRq4Yept9MrFoXVDMWH/eDdcPA/oik
+EbV23eCb9T0fDpQWRYnN732cVG7rbenfEf55KvL8R61V1uuKI2ni8K3I092tZ52b
+ve3/VDVxnX/SQm8lHXRs+vT7K/yriiNB5/GS1JmMiWR1z+qD0eZTVx1nV7Z9cuY3
+68Po7yfLw0458wu3TGS4bYWr57yV9XJHkdw3DC5mHahLjepW8ZcHLWLJVxcu//jU
+wNT9sH8B
+=9VVA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/murriel
+
+==================================================================
