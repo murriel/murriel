@@ -23,6 +23,8 @@ social:
     url: https://github.com/murriel
   - title: linkedin
     url: https://www.linkedin.com/in/murrielperez
+  - title: keybase
+    url: https://www.keybase.io/murriel
 # Build settings
 markdown: kramdown
 permalink: pretty

@@ -546,7 +546,8 @@
 .fa-camera-retro:before {
   content: "\f083";
 }
-.fa-key:before {
+.fa-key:before,
+.fa-keybase:before {
   content: "\f084";
 }
 .fa-gears:before,
