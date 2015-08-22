@@ -37,6 +37,12 @@ p {
     line-height: 1.5;
 }
 
+ul, li {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
