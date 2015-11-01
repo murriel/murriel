@@ -189,7 +189,7 @@ a:focus {
 }
 
 /* added class for speaking section */
-.speaking-text, .projects-text, .about-text {
+.speaking-text, .projects-text, .media-text, .about-text {
     /* background: rgba(10,0,0,0.85); */
     background: rgba(33,33,33,0.95);
     padding: 30px 30px 30px 30px;
@@ -290,6 +290,7 @@ a:focus {
 }
 
 /* Maybe try to figure out how to refactor this later so that code isn't re-used - MP*/
+
 .about-section {
     width: 100%;
     padding: 50px 0;
@@ -302,11 +303,23 @@ a:focus {
     -o-background-size: cover;
 }
 
-.download-section {
+.projects-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(/img/projects-bg.jpg) no-repeat center center scroll;
+    background-color: {{ site.color.primary-dark }};
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.media-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(/img/media-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -326,11 +339,11 @@ a:focus {
     -o-background-size: cover;
 }
 
-.projects-section {
+.download-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/projects-bg.jpg) no-repeat center center scroll;
+    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
