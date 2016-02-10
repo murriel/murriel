@@ -54,6 +54,12 @@ ul, li {
     text-align: center;
 }
 
+/* added to remove bullets for posts - MP */
+.listpost {
+  list-style-image: none;
+  list-style-type: none;
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
@@ -425,6 +431,12 @@ footer {
     padding: 50px 0;
 }
 
+.footercc {
+    font-size: 10px;
+    font-style: italic;
+}
+
+}
 footer p {
     margin: 0;
 }
