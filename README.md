@@ -31,9 +31,11 @@ Reference sites I used while learning:
 ## Fonts
 
 ## Front Page Images
+
 _photos by me unless otherwise noted_
-0 self portrait. gleaming lights of the souls by yayoi kusama, københavn, denmark.
-1 pacific ocean, waiting for a wave. photo by @seanleftbelow
-2 server motherboard.  photo by @seanleftbelow, contrast added later
-3 keyboard decomposition. iPhone photo
-4 night of innovation with Girls in Tech LA at red bull HQ. photo by @seanleftbelow
+
+0 self portrait. gleaming lights of the souls by yayoi kusama, københavn, denmark.  
+1 pacific ocean, waiting for a wave. photo by @seanleftbelow  
+2 server motherboard.  photo by @seanleftbelow, contrast added later  
+3 keyboard decomposition. iPhone photo  
+4 night of innovation with Girls in Tech LA at red bull HQ. photo by @seanleftbelow  
