@@ -2,3 +2,5 @@ _site
 .sass-cache
 _assets
 pages/likes.html
+.todos.md
+.DS_Store

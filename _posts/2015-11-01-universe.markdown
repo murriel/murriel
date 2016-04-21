@@ -1,5 +1,5 @@
 ---
-layout: postlist
+layout: post
 title:  "the end of the universe"
 date:   2015-11-01 12:01 AM
 categories: intro
