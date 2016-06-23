@@ -26,9 +26,9 @@ Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github
 Font Awesome
 
 Lovingly created with [Atom](http://www.atom.io)  
-Reference sites I used while learning:
-...[google](http://www.google.com)
-and others to be added here :)
+Reference sites I used while learning:  
+...[google](http://www.google.com)  
+and others to be added here soon :)
 
 ## Fonts
 
