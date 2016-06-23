@@ -25,9 +25,10 @@ I don't have enough of the foundations and fundamentals of down to speak to any 
 Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 Font Awesome
 
-Lovingly created with [Atom](http://www.atom.io)
+Lovingly created with [Atom](http://www.atom.io)  
 Reference sites I used while learning:
-...google :)
+...[google](http://www.google.com)
+and others to be added here :)
 
 ## Fonts
 
