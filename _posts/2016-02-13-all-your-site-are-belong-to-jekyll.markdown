@@ -42,11 +42,9 @@ This may also be very basic, but:
 
 ```here is some sample code```
 
-![my image]({{ site.url }}:4000/img/posts/201602.00.png)
-[mainsite](my website!)
+![my image]({{ site.url }}/img/posts/201602.00.png)
 
 
-<!-- I can include all my links here like whoa -->
-[mainsite]:  http://www.murrielgrace.com
-[githubrepo]: http://www/github.com/xmurriel
-[twitters]:   https://www.twitter.com/xmurriel
+[mainsite](http://www.murrielgrace.com)  
+[githubrepo](http://www/github.com/xmurriel)  
+[twitters](https://www.twitter.com/xmurriel)    
