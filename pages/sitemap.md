@@ -30,7 +30,7 @@ _includes:
     speaking  
     contact  
     footer   
-      // otehr sections
+      // other sections
     base
     contact
     download

@@ -1,6 +1,9 @@
 Murriel's Personal Website
 =========================
 
+## Notes
+This generally needs to be updated. 
+
 ## Description
 Still a work in progress. this was a bit of a learning project for me. While I've done bits of coding here and there, most of my life has been in the system administration and operations world.
 
